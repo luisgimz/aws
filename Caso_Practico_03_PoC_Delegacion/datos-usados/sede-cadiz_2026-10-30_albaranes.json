@@ -1,0 +1,1111 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "albaranes",
+    "formato": "JSON",
+    "numero_fichero": 15,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-ALB-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00001",
+      "cliente_id": "CLI-0462",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 119.31,
+      "importe_eur": 193.18,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00002",
+      "cliente_id": "CLI-0331",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 19.62,
+      "importe_eur": 1785.26,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-ALB-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00003",
+      "cliente_id": "CLI-0271",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 98.42,
+      "importe_eur": 2283.01,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00004",
+      "cliente_id": "CLI-0076",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 72.59,
+      "importe_eur": 1442.97,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00005",
+      "cliente_id": "CLI-0405",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 67.9,
+      "importe_eur": 2239.35,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-ALB-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00006",
+      "cliente_id": "CLI-0291",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 107.62,
+      "importe_eur": 1185.13,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00007",
+      "cliente_id": "CLI-0094",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 66.95,
+      "importe_eur": 286.23,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00008",
+      "cliente_id": "CLI-0254",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 83.39,
+      "importe_eur": 179.77,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00009",
+      "cliente_id": "CLI-0277",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 4.1,
+      "importe_eur": 1716.13,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00010",
+      "cliente_id": "CLI-0209",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 23.03,
+      "importe_eur": 2449.15,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00011",
+      "cliente_id": "CLI-0160",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 74.28,
+      "importe_eur": 255.43,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00012",
+      "cliente_id": "CLI-0415",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 70.38,
+      "importe_eur": 710.17,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00013",
+      "cliente_id": "CLI-0137",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 45.63,
+      "importe_eur": 167.76,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00014",
+      "cliente_id": "CLI-0081",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 13.87,
+      "importe_eur": 1886.69,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00015",
+      "cliente_id": "CLI-0110",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 42.04,
+      "importe_eur": 176.56,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-ALB-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00016",
+      "cliente_id": "CLI-0341",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 6.58,
+      "importe_eur": 1796.0,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00017",
+      "cliente_id": "CLI-0270",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 14.69,
+      "importe_eur": 88.54,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00018",
+      "cliente_id": "CLI-0234",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 21.55,
+      "importe_eur": 2262.21,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00019",
+      "cliente_id": "CLI-0458",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 37.32,
+      "importe_eur": 2059.18,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00020",
+      "cliente_id": "CLI-0120",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 103.69,
+      "importe_eur": 2431.44,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00021",
+      "cliente_id": "CLI-0252",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 38.64,
+      "importe_eur": 384.56,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00022",
+      "cliente_id": "CLI-0482",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 85.74,
+      "importe_eur": 376.63,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00023",
+      "cliente_id": "CLI-0066",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 36.82,
+      "importe_eur": 1374.68,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00024",
+      "cliente_id": "CLI-0291",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 104.28,
+      "importe_eur": 1293.81,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00025",
+      "cliente_id": "CLI-0394",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 39.14,
+      "importe_eur": 2083.15,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-ALB-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00026",
+      "cliente_id": "CLI-0161",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 92.75,
+      "importe_eur": 1040.28,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00027",
+      "cliente_id": "CLI-0394",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 55.68,
+      "importe_eur": 1138.22,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00028",
+      "cliente_id": "CLI-0332",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 12.36,
+      "importe_eur": 1296.51,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00029",
+      "cliente_id": "CLI-0090",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 83.13,
+      "importe_eur": 1843.56,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00030",
+      "cliente_id": "CLI-0433",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 107.56,
+      "importe_eur": 422.27,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00031",
+      "cliente_id": "CLI-0216",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 8.09,
+      "importe_eur": 1012.36,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00032",
+      "cliente_id": "CLI-0319",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 31.45,
+      "importe_eur": 1614.55,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00033",
+      "cliente_id": "CLI-0005",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 39.71,
+      "importe_eur": 1902.46,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00034",
+      "cliente_id": "CLI-0145",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 96.21,
+      "importe_eur": 2271.57,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00035",
+      "cliente_id": "CLI-0371",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 26.97,
+      "importe_eur": 905.87,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-ALB-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00036",
+      "cliente_id": "CLI-0284",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 41.27,
+      "importe_eur": 1705.45,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "ALB-2026-00037",
+      "cliente_id": "CLI-0134",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 72.31,
+      "importe_eur": 1824.87,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-ALB-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00038",
+      "cliente_id": "CLI-0378",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 41.24,
+      "importe_eur": 787.67,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-ALB-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00039",
+      "cliente_id": "CLI-0147",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 115.16,
+      "importe_eur": 483.35,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00040",
+      "cliente_id": "CLI-0112",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 71.03,
+      "importe_eur": 2371.06,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-ALB-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00041",
+      "cliente_id": "CLI-0012",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 101.59,
+      "importe_eur": 2438.2,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-ALB-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "ALB-2026-00042",
+      "cliente_id": "CLI-0013",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 107.92,
+      "importe_eur": 598.28,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-ALB-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "ALB-2026-00043",
+      "cliente_id": "CLI-0388",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 52.57,
+      "importe_eur": 1771.69,
+      "municipio": "Jerez de la Frontera"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-15-0001",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0002",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0003",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0004",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0005",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0006",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0007",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0008",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0009",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0010",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0011",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0012",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0013",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0014",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0015",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0016",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0017",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0018",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0019",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0020",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0021",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0022",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0023",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0024",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0025",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0026",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0027",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0028",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0029",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0030",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0031",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0032",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0033",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0034",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0035",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0036",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0037",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0038",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0039",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0040",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0041",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0042",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0043",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0044",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0045",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0046",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0047",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0048",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0049",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0050",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0051",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0052",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0053",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0054",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0055",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0056",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0057",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0058",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0059",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0060",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0061",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0062",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0063",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0064",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0065",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0066",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0067",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0068",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0069",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0070",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0071",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0072",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0073",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0074",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0075",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0076",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0077",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0078",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0079",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0080",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0081",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0082",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0083",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0084",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0085",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0086",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0087",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0088",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0089",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0090",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0091",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0092",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0093",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0094",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0095",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0096",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0097",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0098",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0099",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0100",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0101",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0102",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0103",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0104",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0105",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0106",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0107",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0108",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0109",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0110",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0111",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0112",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0113",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0114",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0115",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-15-0116",
+      "texto": "Información complementaria de prueba asociada a albaranes. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

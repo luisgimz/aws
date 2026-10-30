@@ -1,0 +1,1235 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "formulas",
+    "formato": "JSON",
+    "numero_fichero": 3,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-FOR-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 115.63,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "vid",
+        "hortícolas"
+      ],
+      "precio_eur": 171.99,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 128.57,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 35.0,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 124.21,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 142.55,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid",
+        "olivo"
+      ],
+      "precio_eur": 60.64,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 145.88,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 141.99,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 173.99,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 135.73,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 78.95,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "vid",
+        "hortícolas"
+      ],
+      "precio_eur": 123.54,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 102.17,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 169.46,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas"
+      ],
+      "precio_eur": 120.31,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 135.76,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cereal"
+      ],
+      "precio_eur": 153.25,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 48.54,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 47.45,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 77.98,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "hortícolas"
+      ],
+      "precio_eur": 101.63,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 117.15,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "olivo",
+        "hortícolas"
+      ],
+      "precio_eur": 163.12,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 149.95,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 160.53,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "hortícolas"
+      ],
+      "precio_eur": 67.31,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 149.35,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 174.66,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "olivo",
+        "vid"
+      ],
+      "precio_eur": 15.2,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 179.78,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 122.01,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 161.22,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "vid"
+      ],
+      "precio_eur": 118.52,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 121.6,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-FOR-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 29.51,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 87.21,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 170.28,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 143.24,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-FOR-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "olivo",
+        "cítricos"
+      ],
+      "precio_eur": 95.25,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-FOR-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 150.18,
+      "unidad": "unidad"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-03-0001",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0002",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0003",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0004",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0005",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0006",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0007",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0008",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0009",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0010",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0011",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0012",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0013",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0014",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0015",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0016",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0017",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0018",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0019",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0020",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0021",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0022",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0023",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0024",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0025",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0026",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0027",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0028",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0029",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0030",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0031",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0032",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0033",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0034",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0035",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0036",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0037",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0038",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0039",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0040",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0041",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0042",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0043",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0044",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0045",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0046",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0047",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0048",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0049",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0050",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0051",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0052",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0053",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0054",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0055",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0056",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0057",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0058",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0059",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0060",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0061",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0062",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0063",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0064",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0065",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0066",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0067",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0068",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0069",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0070",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0071",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0072",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0073",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0074",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0075",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0076",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0077",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0078",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0079",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0080",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0081",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0082",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0083",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0084",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0085",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0086",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0087",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0088",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0089",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0090",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0091",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0092",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0093",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0094",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0095",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0096",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0097",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0098",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0099",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0100",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0101",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0102",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0103",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0104",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0105",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0106",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0107",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0108",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0109",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0110",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0111",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0112",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0113",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0114",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0115",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0116",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0117",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0118",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0119",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0120",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0121",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0122",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0123",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0124",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0125",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0126",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0127",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0128",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-03-0129",
+      "texto": "Información complementaria de prueba asociada a formulas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

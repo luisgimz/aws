@@ -1,0 +1,942 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "inventario",
+    "formato": "JSON",
+    "numero_fichero": 7,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-INV-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L49824",
+      "almacen": "ALM-05",
+      "cantidad": 843.57,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L54889",
+      "almacen": "ALM-06",
+      "cantidad": 1494.84,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L72988",
+      "almacen": "ALM-03",
+      "cantidad": 860.16,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L55557",
+      "almacen": "ALM-07",
+      "cantidad": 208.74,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L40492",
+      "almacen": "ALM-08",
+      "cantidad": 990.07,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L85220",
+      "almacen": "ALM-06",
+      "cantidad": 622.08,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L99803",
+      "almacen": "ALM-07",
+      "cantidad": 922.36,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L71716",
+      "almacen": "ALM-04",
+      "cantidad": 280.09,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L10631",
+      "almacen": "ALM-04",
+      "cantidad": 983.1,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L89241",
+      "almacen": "ALM-03",
+      "cantidad": 1133.89,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L40613",
+      "almacen": "ALM-07",
+      "cantidad": 841.84,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L36492",
+      "almacen": "ALM-07",
+      "cantidad": 58.44,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L29989",
+      "almacen": "ALM-06",
+      "cantidad": 164.61,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L33379",
+      "almacen": "ALM-02",
+      "cantidad": 159.45,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L36425",
+      "almacen": "ALM-03",
+      "cantidad": 95.57,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L21182",
+      "almacen": "ALM-06",
+      "cantidad": 643.2,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L28937",
+      "almacen": "ALM-04",
+      "cantidad": 841.22,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L72262",
+      "almacen": "ALM-08",
+      "cantidad": 1341.98,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L70431",
+      "almacen": "ALM-08",
+      "cantidad": 1027.6,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L84459",
+      "almacen": "ALM-07",
+      "cantidad": 197.4,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L67622",
+      "almacen": "ALM-06",
+      "cantidad": 1105.72,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L95424",
+      "almacen": "ALM-01",
+      "cantidad": 1261.0,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L84613",
+      "almacen": "ALM-08",
+      "cantidad": 1494.16,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L28676",
+      "almacen": "ALM-05",
+      "cantidad": 1391.06,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L36374",
+      "almacen": "ALM-07",
+      "cantidad": 1015.21,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L44028",
+      "almacen": "ALM-03",
+      "cantidad": 415.54,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L77216",
+      "almacen": "ALM-02",
+      "cantidad": 773.08,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L22813",
+      "almacen": "ALM-08",
+      "cantidad": 1374.69,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L14378",
+      "almacen": "ALM-02",
+      "cantidad": 544.4,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-INV-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L18592",
+      "almacen": "ALM-02",
+      "cantidad": 1363.2,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L28310",
+      "almacen": "ALM-06",
+      "cantidad": 399.69,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L57395",
+      "almacen": "ALM-07",
+      "cantidad": 490.08,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L23953",
+      "almacen": "ALM-03",
+      "cantidad": 80.69,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L36217",
+      "almacen": "ALM-03",
+      "cantidad": 165.08,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L11695",
+      "almacen": "ALM-07",
+      "cantidad": 1027.1,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-INV-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L81178",
+      "almacen": "ALM-01",
+      "cantidad": 642.77,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-INV-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L62174",
+      "almacen": "ALM-06",
+      "cantidad": 1086.73,
+      "unidad": "L"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-07-0001",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0002",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0003",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0004",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0005",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0006",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0007",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0008",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0009",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0010",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0011",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0012",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0013",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0014",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0015",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0016",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0017",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0018",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0019",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0020",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0021",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0022",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0023",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0024",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0025",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0026",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0027",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0028",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0029",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0030",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0031",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0032",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0033",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0034",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0035",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0036",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0037",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0038",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0039",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0040",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0041",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0042",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0043",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0044",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0045",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0046",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0047",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0048",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0049",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0050",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0051",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0052",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0053",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0054",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0055",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0056",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0057",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0058",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0059",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0060",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0061",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0062",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0063",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0064",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0065",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0066",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0067",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0068",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0069",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0070",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0071",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0072",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0073",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0074",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0075",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0076",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0077",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0078",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0079",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0080",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0081",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0082",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0083",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0084",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0085",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0086",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0087",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0088",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0089",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0090",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0091",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0092",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0093",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0094",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0095",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0096",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0097",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0098",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0099",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0100",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0101",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0102",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0103",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-07-0104",
+      "texto": "Información complementaria de prueba asociada a inventario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "cuenta",
+    "formato": "JSON",
+    "numero_fichero": 1,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-CUE-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00001",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto1@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00002",
+      "nombre": "Agro Levante",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto2@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00003",
+      "nombre": "Campo Verde",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto3@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00004",
+      "nombre": "Finca La Ribera",
+      "municipio": "Cádiz",
+      "contacto": "contacto4@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00005",
+      "nombre": "Finca La Ribera",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto5@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00006",
+      "nombre": "Suministros Turia",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto6@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00007",
+      "nombre": "Suministros Turia",
+      "municipio": "Chiclana",
+      "contacto": "contacto7@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00008",
+      "nombre": "Campo Verde",
+      "municipio": "Chiclana",
+      "contacto": "contacto8@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00009",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto9@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00010",
+      "nombre": "Agro Levante",
+      "municipio": "San Fernando",
+      "contacto": "contacto10@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00011",
+      "nombre": "Campo Verde",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto11@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00012",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto12@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00013",
+      "nombre": "Agro Levante",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto13@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00014",
+      "nombre": "Agro Levante",
+      "municipio": "San Fernando",
+      "contacto": "contacto14@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00015",
+      "nombre": "Campo Verde",
+      "municipio": "Chiclana",
+      "contacto": "contacto15@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00016",
+      "nombre": "Campo Verde",
+      "municipio": "Cádiz",
+      "contacto": "contacto16@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00017",
+      "nombre": "Suministros Turia",
+      "municipio": "San Fernando",
+      "contacto": "contacto17@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00018",
+      "nombre": "Agro Levante",
+      "municipio": "San Fernando",
+      "contacto": "contacto18@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00019",
+      "nombre": "Suministros Turia",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto19@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00020",
+      "nombre": "Campo Verde",
+      "municipio": "Chiclana",
+      "contacto": "contacto20@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00021",
+      "nombre": "Agro Levante",
+      "municipio": "San Fernando",
+      "contacto": "contacto21@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00022",
+      "nombre": "Campo Verde",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto22@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "CUE-00023",
+      "nombre": "Finca La Ribera",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto23@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00024",
+      "nombre": "Campo Verde",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto24@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00025",
+      "nombre": "Finca La Ribera",
+      "municipio": "Cádiz",
+      "contacto": "contacto25@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-CUE-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "CUE-00026",
+      "nombre": "Suministros Turia",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto26@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-CUE-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "CUE-00027",
+      "nombre": "Suministros Turia",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto27@ejemplo.invalid",
+      "activo": true
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-01-0001",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0002",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0003",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0004",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0005",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0006",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0007",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0008",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0009",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0010",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0011",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0012",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0013",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0014",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0015",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0016",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0017",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0018",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0019",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0020",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0021",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0022",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0023",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0024",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0025",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0026",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0027",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0028",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0029",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0030",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0031",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0032",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0033",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0034",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0035",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0036",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0037",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0038",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0039",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0040",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0041",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0042",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0043",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0044",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0045",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0046",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0047",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0048",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0049",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0050",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0051",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0052",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0053",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0054",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0055",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0056",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0057",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0058",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0059",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0060",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0061",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0062",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0063",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0064",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0065",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0066",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0067",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0068",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0069",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0070",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0071",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0072",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0073",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0074",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0075",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0076",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0077",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0078",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0079",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0080",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0081",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0082",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0083",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0084",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0085",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0086",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0087",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0088",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0089",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0090",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0091",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0092",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0093",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0094",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0095",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0096",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0097",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0098",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0099",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0100",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0101",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0102",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0103",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0104",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0105",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0106",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0107",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0108",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0109",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0110",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0111",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0112",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0113",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0114",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0115",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0116",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0117",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0118",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0119",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0120",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0121",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0122",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0123",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0124",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0125",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0126",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0127",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0128",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0129",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0130",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0131",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0132",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0133",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0134",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0135",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0136",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0137",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0138",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0139",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0140",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0141",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0142",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0143",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0144",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0145",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0146",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0147",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0148",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0149",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0150",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0151",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0152",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0153",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0154",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0155",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0156",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0157",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0158",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0159",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0160",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0161",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0162",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-01-0163",
+      "texto": "Información complementaria de prueba asociada a cuenta. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

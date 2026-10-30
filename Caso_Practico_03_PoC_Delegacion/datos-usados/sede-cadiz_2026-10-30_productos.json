@@ -1,0 +1,913 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "productos",
+    "formato": "JSON",
+    "numero_fichero": 2,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-PRO-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cítricos"
+      ],
+      "precio_eur": 59.67,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 110.47,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 175.46,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 140.95,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 44.66,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 94.56,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 71.08,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 136.14,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 99.39,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 118.3,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "olivo",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 109.4,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 47.77,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 83.22,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal",
+        "cítricos"
+      ],
+      "precio_eur": 37.97,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 149.02,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 173.74,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cereal"
+      ],
+      "precio_eur": 78.74,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 42.0,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "olivo",
+        "vid"
+      ],
+      "precio_eur": 28.43,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 64.46,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas"
+      ],
+      "precio_eur": 61.15,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cereal",
+        "cítricos"
+      ],
+      "precio_eur": 62.99,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 154.67,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 74.35,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cereal",
+        "cítricos"
+      ],
+      "precio_eur": 51.7,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "olivo",
+        "cereal"
+      ],
+      "precio_eur": 80.78,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 52.55,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "olivo",
+        "cereal"
+      ],
+      "precio_eur": 82.49,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 134.48,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cereal"
+      ],
+      "precio_eur": 170.93,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 92.48,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 162.32,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas",
+        "olivo"
+      ],
+      "precio_eur": 69.43,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 175.44,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cereal"
+      ],
+      "precio_eur": 96.93,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 87.55,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 32.98,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 84.51,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-PRO-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 113.79,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 68.78,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 129.27,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 77.64,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 23.04,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00044",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 88.4,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00045",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 99.94,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-PRO-00046",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 124.23,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00047",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 119.62,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-PRO-00048",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal",
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 167.74,
+      "unidad": "unidad"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-02-0001",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0002",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0003",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0004",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0005",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0006",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0007",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0008",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0009",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0010",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0011",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0012",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0013",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0014",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0015",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0016",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0017",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0018",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0019",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0020",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0021",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0022",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0023",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0024",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0025",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0026",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0027",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0028",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0029",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0030",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0031",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0032",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0033",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0034",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0035",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0036",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0037",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0038",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0039",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0040",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0041",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0042",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-02-0043",
+      "texto": "Información complementaria de prueba asociada a productos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

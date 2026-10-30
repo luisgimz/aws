@@ -1,0 +1,1381 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "compras",
+    "formato": "JSON",
+    "numero_fichero": 19,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-COM-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00001",
+      "cliente_id": "CLI-0461",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 59.8,
+      "importe_eur": 173.91,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00002",
+      "cliente_id": "CLI-0023",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 87.31,
+      "importe_eur": 1140.26,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-COM-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00003",
+      "cliente_id": "CLI-0289",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 15.04,
+      "importe_eur": 2154.29,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00004",
+      "cliente_id": "CLI-0355",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 98.44,
+      "importe_eur": 1883.66,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00005",
+      "cliente_id": "CLI-0359",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 60.9,
+      "importe_eur": 1012.13,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-COM-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00006",
+      "cliente_id": "CLI-0326",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 1.38,
+      "importe_eur": 1295.31,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00007",
+      "cliente_id": "CLI-0446",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 9.46,
+      "importe_eur": 727.34,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-COM-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00008",
+      "cliente_id": "CLI-0406",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 40.26,
+      "importe_eur": 734.57,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-COM-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00009",
+      "cliente_id": "CLI-0169",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 79.9,
+      "importe_eur": 859.86,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-COM-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00010",
+      "cliente_id": "CLI-0437",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 35.1,
+      "importe_eur": 692.57,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-COM-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00011",
+      "cliente_id": "CLI-0180",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 74.53,
+      "importe_eur": 2301.78,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-COM-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00012",
+      "cliente_id": "CLI-0371",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 7.17,
+      "importe_eur": 1053.79,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-COM-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00013",
+      "cliente_id": "CLI-0140",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 78.11,
+      "importe_eur": 2480.13,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-COM-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00014",
+      "cliente_id": "CLI-0468",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 75.78,
+      "importe_eur": 416.73,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-COM-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00015",
+      "cliente_id": "CLI-0353",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 115.72,
+      "importe_eur": 1698.96,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-COM-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00016",
+      "cliente_id": "CLI-0254",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 12.46,
+      "importe_eur": 1185.82,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00017",
+      "cliente_id": "CLI-0448",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 17.66,
+      "importe_eur": 1869.34,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-COM-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00018",
+      "cliente_id": "CLI-0446",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 113.18,
+      "importe_eur": 1671.76,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-COM-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00019",
+      "cliente_id": "CLI-0471",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 44.28,
+      "importe_eur": 1231.84,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-COM-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00020",
+      "cliente_id": "CLI-0418",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 80.68,
+      "importe_eur": 55.42,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-COM-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00021",
+      "cliente_id": "CLI-0012",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 74.6,
+      "importe_eur": 195.44,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-COM-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00022",
+      "cliente_id": "CLI-0094",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 13.06,
+      "importe_eur": 717.09,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00023",
+      "cliente_id": "CLI-0312",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 8.9,
+      "importe_eur": 967.09,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00024",
+      "cliente_id": "CLI-0447",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 89.44,
+      "importe_eur": 2056.27,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "COM-2026-00025",
+      "cliente_id": "CLI-0083",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 110.52,
+      "importe_eur": 1105.02,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-COM-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "COM-2026-00026",
+      "cliente_id": "CLI-0196",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 16.89,
+      "importe_eur": 1597.11,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-COM-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00027",
+      "cliente_id": "CLI-0312",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 118.54,
+      "importe_eur": 992.11,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-COM-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "COM-2026-00028",
+      "cliente_id": "CLI-0274",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 73.38,
+      "importe_eur": 1941.46,
+      "municipio": "Sanlúcar de Barrameda"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-19-0001",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0002",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0003",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0004",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0005",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0006",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0007",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0008",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0009",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0010",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0011",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0012",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0013",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0014",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0015",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0016",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0017",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0018",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0019",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0020",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0021",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0022",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0023",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0024",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0025",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0026",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0027",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0028",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0029",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0030",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0031",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0032",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0033",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0034",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0035",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0036",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0037",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0038",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0039",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0040",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0041",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0042",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0043",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0044",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0045",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0046",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0047",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0048",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0049",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0050",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0051",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0052",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0053",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0054",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0055",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0056",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0057",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0058",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0059",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0060",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0061",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0062",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0063",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0064",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0065",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0066",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0067",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0068",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0069",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0070",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0071",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0072",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0073",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0074",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0075",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0076",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0077",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0078",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0079",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0080",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0081",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0082",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0083",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0084",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0085",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0086",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0087",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0088",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0089",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0090",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0091",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0092",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0093",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0094",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0095",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0096",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0097",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0098",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0099",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0100",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0101",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0102",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0103",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0104",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0105",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0106",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0107",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0108",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0109",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0110",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0111",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0112",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0113",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0114",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0115",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0116",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0117",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0118",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0119",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0120",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0121",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0122",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0123",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0124",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0125",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0126",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0127",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0128",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0129",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0130",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0131",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0132",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0133",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0134",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0135",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0136",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0137",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0138",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0139",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0140",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0141",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0142",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0143",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0144",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0145",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0146",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0147",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0148",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0149",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0150",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0151",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0152",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0153",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0154",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0155",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0156",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0157",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0158",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0159",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0160",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0161",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0162",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0163",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0164",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0165",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0166",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0167",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0168",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0169",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0170",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0171",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0172",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0173",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0174",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0175",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0176",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0177",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0178",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0179",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0180",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0181",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0182",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0183",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0184",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0185",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0186",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0187",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0188",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0189",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0190",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0191",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0192",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0193",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0194",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0195",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0196",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0197",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0198",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0199",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0200",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0201",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0202",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0203",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0204",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0205",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-19-0206",
+      "texto": "Información complementaria de prueba asociada a compras. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

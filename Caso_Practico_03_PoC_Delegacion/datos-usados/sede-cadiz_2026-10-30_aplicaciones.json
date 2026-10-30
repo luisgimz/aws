@@ -1,0 +1,405 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "aplicaciones",
+    "formato": "JSON",
+    "numero_fichero": 10,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-APL-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0043",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 36.89,
+      "dosis": 4.0,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0150",
+      "cultivo": "hortícolas",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 9.31,
+      "dosis": 3.9,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0088",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Bioestimulante",
+      "superficie_ha": 40.59,
+      "dosis": 4.08,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0246",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Bioestimulante",
+      "superficie_ha": 19.95,
+      "dosis": 1.14,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0180",
+      "cultivo": "cereal",
+      "municipio": "Chiclana",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 18.32,
+      "dosis": 4.41,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0223",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 28.49,
+      "dosis": 2.01,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0122",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 6.75,
+      "dosis": 1.53,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0272",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Bioestimulante",
+      "superficie_ha": 40.45,
+      "dosis": 1.68,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0230",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 26.58,
+      "dosis": 3.6,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0251",
+      "cultivo": "cítricos",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 21.94,
+      "dosis": 1.4,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0201",
+      "cultivo": "cítricos",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 39.26,
+      "dosis": 0.54,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0166",
+      "cultivo": "olivo",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 19.71,
+      "dosis": 0.79,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0055",
+      "cultivo": "cítricos",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 41.38,
+      "dosis": 3.72,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0213",
+      "cultivo": "hortícolas",
+      "municipio": "Chiclana",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 9.82,
+      "dosis": 3.07,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0202",
+      "cultivo": "olivo",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 21.83,
+      "dosis": 2.9,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0161",
+      "cultivo": "vid",
+      "municipio": "Cádiz",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 27.42,
+      "dosis": 2.57,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0155",
+      "cultivo": "cereal",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 12.11,
+      "dosis": 2.81,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0211",
+      "cultivo": "olivo",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 26.61,
+      "dosis": 4.2,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0093",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 42.7,
+      "dosis": 2.65,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-APL-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0066",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 8.74,
+      "dosis": 2.43,
+      "unidad_dosis": "L/ha"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-10-0001",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0002",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0003",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0004",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0005",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0006",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0007",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0008",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0009",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0010",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0011",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0012",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0013",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0014",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0015",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0016",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0017",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0018",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0019",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0020",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0021",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0022",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0023",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0024",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0025",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0026",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0027",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0028",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0029",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-10-0030",
+      "texto": "Información complementaria de prueba asociada a aplicaciones. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

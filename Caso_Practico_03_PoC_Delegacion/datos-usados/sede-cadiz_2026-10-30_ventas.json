@@ -1,0 +1,1648 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "ventas",
+    "formato": "JSON",
+    "numero_fichero": 4,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-VEN-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00001",
+      "cliente_id": "CLI-0443",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 59.81,
+      "importe_eur": 752.55,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00002",
+      "cliente_id": "CLI-0231",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 32.45,
+      "importe_eur": 677.36,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00003",
+      "cliente_id": "CLI-0301",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 98.81,
+      "importe_eur": 1361.81,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-VEN-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00004",
+      "cliente_id": "CLI-0065",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 30.24,
+      "importe_eur": 1416.12,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00005",
+      "cliente_id": "CLI-0254",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 1.56,
+      "importe_eur": 2489.16,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00006",
+      "cliente_id": "CLI-0156",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 63.48,
+      "importe_eur": 1160.27,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00007",
+      "cliente_id": "CLI-0500",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 98.23,
+      "importe_eur": 1487.21,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00008",
+      "cliente_id": "CLI-0265",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 62.44,
+      "importe_eur": 1110.85,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00009",
+      "cliente_id": "CLI-0429",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 84.45,
+      "importe_eur": 1364.45,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00010",
+      "cliente_id": "CLI-0110",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 112.88,
+      "importe_eur": 1314.82,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-VEN-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00011",
+      "cliente_id": "CLI-0427",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 40.01,
+      "importe_eur": 2127.69,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-VEN-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00012",
+      "cliente_id": "CLI-0008",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 39.57,
+      "importe_eur": 1716.46,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-VEN-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00013",
+      "cliente_id": "CLI-0150",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 98.26,
+      "importe_eur": 358.62,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00014",
+      "cliente_id": "CLI-0193",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 82.1,
+      "importe_eur": 992.73,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-VEN-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00015",
+      "cliente_id": "CLI-0134",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 11.91,
+      "importe_eur": 652.57,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00016",
+      "cliente_id": "CLI-0410",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 106.04,
+      "importe_eur": 225.54,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-VEN-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00017",
+      "cliente_id": "CLI-0303",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 98.51,
+      "importe_eur": 757.15,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00018",
+      "cliente_id": "CLI-0166",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 96.53,
+      "importe_eur": 254.99,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00019",
+      "cliente_id": "CLI-0232",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 63.99,
+      "importe_eur": 168.25,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00020",
+      "cliente_id": "CLI-0269",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 42.82,
+      "importe_eur": 1098.44,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-VEN-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00021",
+      "cliente_id": "CLI-0456",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 65.02,
+      "importe_eur": 428.14,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00022",
+      "cliente_id": "CLI-0290",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 71.5,
+      "importe_eur": 914.14,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-VEN-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00023",
+      "cliente_id": "CLI-0382",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 95.16,
+      "importe_eur": 141.27,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-VEN-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00024",
+      "cliente_id": "CLI-0188",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 20.35,
+      "importe_eur": 1314.3,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00025",
+      "cliente_id": "CLI-0344",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "cantidad": 61.49,
+      "importe_eur": 2381.27,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00026",
+      "cliente_id": "CLI-0101",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 77.52,
+      "importe_eur": 1859.66,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00027",
+      "cliente_id": "CLI-0211",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 64.05,
+      "importe_eur": 774.27,
+      "municipio": "Chiclana"
+    },
+    {
+      "id_registro": "CAD-VEN-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00028",
+      "cliente_id": "CLI-0260",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 74.62,
+      "importe_eur": 2425.24,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-VEN-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00029",
+      "cliente_id": "CLI-0099",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 100.5,
+      "importe_eur": 405.64,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-VEN-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00030",
+      "cliente_id": "CLI-0245",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 86.63,
+      "importe_eur": 344.22,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00031",
+      "cliente_id": "CLI-0107",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "cantidad": 51.74,
+      "importe_eur": 467.8,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00032",
+      "cliente_id": "CLI-0431",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 79.02,
+      "importe_eur": 1578.12,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00033",
+      "cliente_id": "CLI-0207",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 71.52,
+      "importe_eur": 262.84,
+      "municipio": "Sanlúcar de Barrameda"
+    },
+    {
+      "id_registro": "CAD-VEN-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00034",
+      "cliente_id": "CLI-0302",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 94.88,
+      "importe_eur": 1913.44,
+      "municipio": "Cádiz"
+    },
+    {
+      "id_registro": "CAD-VEN-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00035",
+      "cliente_id": "CLI-0429",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 104.73,
+      "importe_eur": 466.21,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-VEN-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00036",
+      "cliente_id": "CLI-0220",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 7.58,
+      "importe_eur": 236.76,
+      "municipio": "Jerez de la Frontera"
+    },
+    {
+      "id_registro": "CAD-VEN-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "documento": "VEN-2026-00037",
+      "cliente_id": "CLI-0069",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "cantidad": 100.56,
+      "importe_eur": 2419.1,
+      "municipio": "San Fernando"
+    },
+    {
+      "id_registro": "CAD-VEN-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "documento": "VEN-2026-00038",
+      "cliente_id": "CLI-0188",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "cantidad": 61.74,
+      "importe_eur": 681.21,
+      "municipio": "El Puerto de Santa María"
+    },
+    {
+      "id_registro": "CAD-VEN-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "documento": "VEN-2026-00039",
+      "cliente_id": "CLI-0434",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "cantidad": 98.55,
+      "importe_eur": 1055.64,
+      "municipio": "Jerez de la Frontera"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-04-0001",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0002",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0003",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0004",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0005",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0006",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0007",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0008",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0009",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0010",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0011",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0012",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0013",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0014",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0015",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0016",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0017",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0018",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0019",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0020",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0021",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0022",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0023",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0024",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0025",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0026",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0027",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0028",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0029",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0030",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0031",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0032",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0033",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0034",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0035",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0036",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0037",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0038",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0039",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0040",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0041",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0042",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0043",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0044",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0045",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0046",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0047",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0048",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0049",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0050",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0051",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0052",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0053",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0054",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0055",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0056",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0057",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0058",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0059",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0060",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0061",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0062",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0063",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0064",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0065",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0066",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0067",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0068",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0069",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0070",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0071",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0072",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0073",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0074",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0075",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0076",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0077",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0078",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0079",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0080",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0081",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0082",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0083",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0084",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0085",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0086",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0087",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0088",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0089",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0090",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0091",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0092",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0093",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0094",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0095",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0096",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0097",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0098",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0099",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0100",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0101",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0102",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0103",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0104",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0105",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0106",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0107",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0108",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0109",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0110",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0111",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0112",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0113",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0114",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0115",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0116",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0117",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0118",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0119",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0120",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0121",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0122",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0123",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0124",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0125",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0126",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0127",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0128",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0129",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0130",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0131",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0132",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0133",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0134",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0135",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0136",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0137",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0138",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0139",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0140",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0141",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0142",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0143",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0144",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0145",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0146",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0147",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0148",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0149",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0150",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0151",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0152",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0153",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0154",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0155",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0156",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0157",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0158",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0159",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0160",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0161",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0162",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0163",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0164",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0165",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0166",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0167",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0168",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0169",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0170",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0171",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0172",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0173",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0174",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0175",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0176",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0177",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0178",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0179",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0180",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0181",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0182",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0183",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0184",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0185",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0186",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0187",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0188",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0189",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0190",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0191",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0192",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0193",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0194",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0195",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0196",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0197",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0198",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0199",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0200",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0201",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0202",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0203",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0204",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0205",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0206",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0207",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0208",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0209",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0210",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0211",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0212",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0213",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0214",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0215",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0216",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0217",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0218",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0219",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0220",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0221",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0222",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0223",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0224",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0225",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0226",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0227",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0228",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0229",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0230",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0231",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0232",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-04-0233",
+      "texto": "Información complementaria de prueba asociada a ventas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

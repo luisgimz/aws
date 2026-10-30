@@ -1,0 +1,1025 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "comerciales",
+    "formato": "JSON",
+    "numero_fichero": 22,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-COM-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00001",
+      "nombre": "Campo Verde",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto1@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00002",
+      "nombre": "Suministros Turia",
+      "municipio": "San Fernando",
+      "contacto": "contacto2@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00003",
+      "nombre": "Finca La Ribera",
+      "municipio": "Cádiz",
+      "contacto": "contacto3@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00004",
+      "nombre": "Suministros Turia",
+      "municipio": "Chiclana",
+      "contacto": "contacto4@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00005",
+      "nombre": "Suministros Turia",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto5@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00006",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Cádiz",
+      "contacto": "contacto6@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00007",
+      "nombre": "Campo Verde",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto7@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00008",
+      "nombre": "Finca La Ribera",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto8@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00009",
+      "nombre": "Agro Levante",
+      "municipio": "Cádiz",
+      "contacto": "contacto9@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00010",
+      "nombre": "Agro Levante",
+      "municipio": "San Fernando",
+      "contacto": "contacto10@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00011",
+      "nombre": "Suministros Turia",
+      "municipio": "Cádiz",
+      "contacto": "contacto11@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00012",
+      "nombre": "Campo Verde",
+      "municipio": "El Puerto de Santa María",
+      "contacto": "contacto12@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00013",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Cádiz",
+      "contacto": "contacto13@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00014",
+      "nombre": "Campo Verde",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto14@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00015",
+      "nombre": "Suministros Turia",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto15@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00016",
+      "nombre": "Agro Levante",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto16@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00017",
+      "nombre": "Suministros Turia",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto17@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00018",
+      "nombre": "Agro Levante",
+      "municipio": "Jerez de la Frontera",
+      "contacto": "contacto18@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00019",
+      "nombre": "Finca La Ribera",
+      "municipio": "San Fernando",
+      "contacto": "contacto19@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00020",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "San Fernando",
+      "contacto": "contacto20@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00021",
+      "nombre": "Finca La Ribera",
+      "municipio": "Cádiz",
+      "contacto": "contacto21@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00022",
+      "nombre": "Finca La Ribera",
+      "municipio": "San Fernando",
+      "contacto": "contacto22@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00023",
+      "nombre": "Suministros Turia",
+      "municipio": "Cádiz",
+      "contacto": "contacto23@ejemplo.invalid",
+      "activo": false
+    },
+    {
+      "id_registro": "CAD-COM-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00024",
+      "nombre": "Suministros Turia",
+      "municipio": "Cádiz",
+      "contacto": "contacto24@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo": "COM-00025",
+      "nombre": "Agroservicios Mediterráneo",
+      "municipio": "Cádiz",
+      "contacto": "contacto25@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo": "COM-00026",
+      "nombre": "Campo Verde",
+      "municipio": "Cádiz",
+      "contacto": "contacto26@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00027",
+      "nombre": "Finca La Ribera",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto27@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00028",
+      "nombre": "Agro Levante",
+      "municipio": "Chiclana",
+      "contacto": "contacto28@ejemplo.invalid",
+      "activo": true
+    },
+    {
+      "id_registro": "CAD-COM-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo": "COM-00029",
+      "nombre": "Campo Verde",
+      "municipio": "Sanlúcar de Barrameda",
+      "contacto": "contacto29@ejemplo.invalid",
+      "activo": false
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-22-0001",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0002",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0003",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0004",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0005",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0006",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0007",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0008",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0009",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0010",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0011",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0012",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0013",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0014",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0015",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0016",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0017",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0018",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0019",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0020",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0021",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0022",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0023",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0024",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0025",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0026",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0027",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0028",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0029",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0030",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0031",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0032",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0033",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0034",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0035",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0036",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0037",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0038",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0039",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0040",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0041",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0042",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0043",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0044",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0045",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0046",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0047",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0048",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0049",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0050",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0051",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0052",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0053",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0054",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0055",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0056",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0057",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0058",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0059",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0060",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0061",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0062",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0063",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0064",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0065",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0066",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0067",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0068",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0069",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0070",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0071",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0072",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0073",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0074",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0075",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0076",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0077",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0078",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0079",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0080",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0081",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0082",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0083",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0084",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0085",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0086",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0087",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0088",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0089",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0090",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0091",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0092",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0093",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0094",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0095",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0096",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0097",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0098",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0099",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0100",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0101",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0102",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0103",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0104",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0105",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0106",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0107",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0108",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0109",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0110",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0111",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0112",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0113",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0114",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0115",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0116",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0117",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0118",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0119",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0120",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0121",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0122",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0123",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0124",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0125",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0126",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0127",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0128",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0129",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0130",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0131",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0132",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0133",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0134",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0135",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0136",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0137",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0138",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0139",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0140",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0141",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0142",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0143",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-22-0144",
+      "texto": "Información complementaria de prueba asociada a comerciales. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

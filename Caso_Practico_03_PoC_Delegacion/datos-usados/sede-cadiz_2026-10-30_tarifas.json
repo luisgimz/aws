@@ -1,0 +1,1777 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "tarifas",
+    "formato": "JSON",
+    "numero_fichero": 17,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-TAR-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 39.53,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 111.02,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "olivo",
+        "hortícolas"
+      ],
+      "precio_eur": 175.12,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas"
+      ],
+      "precio_eur": 86.56,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid",
+        "hortícolas"
+      ],
+      "precio_eur": 99.23,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cereal",
+        "vid"
+      ],
+      "precio_eur": 107.17,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 44.32,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "olivo"
+      ],
+      "precio_eur": 100.22,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 67.12,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas"
+      ],
+      "precio_eur": 48.75,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 19.14,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "cereal",
+        "hortícolas"
+      ],
+      "precio_eur": 113.98,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 146.12,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 79.62,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 65.01,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 173.36,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas"
+      ],
+      "precio_eur": 171.23,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 17.77,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 60.48,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cítricos"
+      ],
+      "precio_eur": 55.8,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "olivo",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 164.84,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid"
+      ],
+      "precio_eur": 142.1,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cereal",
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 148.1,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 8.56,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "vid",
+        "olivo",
+        "hortícolas"
+      ],
+      "precio_eur": 33.99,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 85.17,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal",
+        "olivo"
+      ],
+      "precio_eur": 165.69,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "vid",
+        "cítricos"
+      ],
+      "precio_eur": 135.05,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 51.33,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 179.01,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "hortícolas",
+        "vid"
+      ],
+      "precio_eur": 102.12,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "olivo",
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 12.2,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "nombre": "Herbicida selectivo",
+      "categoria": "herbicida",
+      "cultivos_autorizados": [
+        "cereal",
+        "cítricos",
+        "hortícolas"
+      ],
+      "precio_eur": 8.03,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "olivo",
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 132.46,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "cereal"
+      ],
+      "precio_eur": 65.0,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "vid",
+        "cereal"
+      ],
+      "precio_eur": 98.91,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "cereal"
+      ],
+      "precio_eur": 23.47,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "olivo",
+        "hortícolas"
+      ],
+      "precio_eur": 49.12,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "nombre": "Bioestimulante",
+      "categoria": "bioestimulante",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 24.16,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "hortícolas",
+        "olivo",
+        "cítricos"
+      ],
+      "precio_eur": 123.98,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "nombre": "Fungicida de cobre",
+      "categoria": "fungicida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 21.56,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-TAR-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "olivo"
+      ],
+      "precio_eur": 57.41,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-TAR-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-002",
+      "nombre": "Insecticida agrícola",
+      "categoria": "insecticida",
+      "cultivos_autorizados": [
+        "cítricos",
+        "vid"
+      ],
+      "precio_eur": 122.33,
+      "unidad": "unidad"
+    },
+    {
+      "id_registro": "CAD-TAR-00044",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "nombre": "Acaricida agrícola",
+      "categoria": "acaricida",
+      "cultivos_autorizados": [
+        "cereal",
+        "hortícolas",
+        "cítricos"
+      ],
+      "precio_eur": 177.84,
+      "unidad": "kg"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-17-0001",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0002",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0003",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0004",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0005",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0006",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0007",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0008",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0009",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0010",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0011",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0012",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0013",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0014",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0015",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0016",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0017",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0018",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0019",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0020",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0021",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0022",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0023",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0024",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0025",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0026",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0027",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0028",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0029",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0030",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0031",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0032",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0033",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0034",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0035",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0036",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0037",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0038",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0039",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0040",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0041",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0042",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0043",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0044",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0045",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0046",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0047",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0048",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0049",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0050",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0051",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0052",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0053",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0054",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0055",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0056",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0057",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0058",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0059",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0060",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0061",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0062",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0063",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0064",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0065",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0066",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0067",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0068",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0069",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0070",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0071",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0072",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0073",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0074",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0075",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0076",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0077",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0078",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0079",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0080",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0081",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0082",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0083",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0084",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0085",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0086",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0087",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0088",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0089",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0090",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0091",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0092",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0093",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0094",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0095",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0096",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0097",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0098",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0099",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0100",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0101",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0102",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0103",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0104",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0105",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0106",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0107",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0108",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0109",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0110",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0111",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0112",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0113",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0114",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0115",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0116",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0117",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0118",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0119",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0120",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0121",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0122",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0123",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0124",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0125",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0126",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0127",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0128",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0129",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0130",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0131",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0132",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0133",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0134",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0135",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0136",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0137",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0138",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0139",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0140",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0141",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0142",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0143",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0144",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0145",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0146",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0147",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0148",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0149",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0150",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0151",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0152",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0153",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0154",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0155",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0156",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0157",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0158",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0159",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0160",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0161",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0162",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0163",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0164",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0165",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0166",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0167",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0168",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0169",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0170",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0171",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0172",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0173",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0174",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0175",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0176",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0177",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0178",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0179",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0180",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0181",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0182",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0183",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0184",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0185",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0186",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0187",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0188",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0189",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0190",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0191",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0192",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0193",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0194",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0195",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0196",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0197",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0198",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0199",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0200",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0201",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0202",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0203",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0204",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0205",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0206",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0207",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0208",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0209",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0210",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0211",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0212",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0213",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0214",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0215",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0216",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0217",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0218",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0219",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0220",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0221",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0222",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0223",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0224",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0225",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0226",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0227",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0228",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0229",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-17-0230",
+      "texto": "Información complementaria de prueba asociada a tarifas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

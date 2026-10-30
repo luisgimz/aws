@@ -1,0 +1,2284 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "cultivos",
+    "formato": "JSON",
+    "numero_fichero": 23,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-CUL-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0118",
+      "cultivo": "olivo",
+      "municipio": "Chiclana",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 16.96,
+      "dosis": 0.3,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0253",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 38.5,
+      "dosis": 3.76,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0261",
+      "cultivo": "vid",
+      "municipio": "Chiclana",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 19.95,
+      "dosis": 2.36,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0159",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 20.88,
+      "dosis": 0.46,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0050",
+      "cultivo": "vid",
+      "municipio": "San Fernando",
+      "producto": "Bioestimulante",
+      "superficie_ha": 42.25,
+      "dosis": 2.99,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0184",
+      "cultivo": "hortícolas",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 41.89,
+      "dosis": 4.6,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0152",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 28.69,
+      "dosis": 1.76,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0182",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 32.37,
+      "dosis": 3.92,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0240",
+      "cultivo": "vid",
+      "municipio": "Chiclana",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 7.58,
+      "dosis": 1.69,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0158",
+      "cultivo": "cereal",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 18.96,
+      "dosis": 1.97,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0127",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 8.52,
+      "dosis": 0.39,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0046",
+      "cultivo": "hortícolas",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 16.14,
+      "dosis": 2.32,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0153",
+      "cultivo": "olivo",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 20.25,
+      "dosis": 2.11,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0069",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 19.13,
+      "dosis": 4.99,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0143",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 44.98,
+      "dosis": 0.51,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0078",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 34.36,
+      "dosis": 2.11,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0285",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 9.14,
+      "dosis": 4.23,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0262",
+      "cultivo": "cítricos",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 42.97,
+      "dosis": 4.79,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0170",
+      "cultivo": "vid",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 7.66,
+      "dosis": 2.43,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0006",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 35.79,
+      "dosis": 3.86,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0156",
+      "cultivo": "hortícolas",
+      "municipio": "Chiclana",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 3.61,
+      "dosis": 4.51,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0020",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 15.69,
+      "dosis": 2.72,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0054",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 39.6,
+      "dosis": 4.35,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0246",
+      "cultivo": "cítricos",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 40.35,
+      "dosis": 2.11,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0107",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 24.21,
+      "dosis": 2.98,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0109",
+      "cultivo": "hortícolas",
+      "municipio": "Cádiz",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 33.35,
+      "dosis": 3.46,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0222",
+      "cultivo": "cereal",
+      "municipio": "Chiclana",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 5.25,
+      "dosis": 1.77,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0141",
+      "cultivo": "vid",
+      "municipio": "Cádiz",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 20.23,
+      "dosis": 1.72,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0148",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 16.5,
+      "dosis": 1.43,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0018",
+      "cultivo": "vid",
+      "municipio": "Cádiz",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 19.25,
+      "dosis": 1.23,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0104",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 32.79,
+      "dosis": 2.29,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0041",
+      "cultivo": "vid",
+      "municipio": "San Fernando",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 35.78,
+      "dosis": 3.39,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0054",
+      "cultivo": "hortícolas",
+      "municipio": "Chiclana",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 25.57,
+      "dosis": 1.51,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0143",
+      "cultivo": "olivo",
+      "municipio": "Chiclana",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 25.89,
+      "dosis": 4.94,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0229",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 14.98,
+      "dosis": 1.93,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0192",
+      "cultivo": "vid",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 25.67,
+      "dosis": 2.95,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0265",
+      "cultivo": "cítricos",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 20.12,
+      "dosis": 1.69,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0043",
+      "cultivo": "olivo",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 1.98,
+      "dosis": 1.04,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0144",
+      "cultivo": "hortícolas",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 21.33,
+      "dosis": 1.44,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0241",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 17.5,
+      "dosis": 3.23,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0115",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 38.87,
+      "dosis": 1.41,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0012",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 42.95,
+      "dosis": 0.66,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0015",
+      "cultivo": "olivo",
+      "municipio": "Cádiz",
+      "producto": "Bioestimulante",
+      "superficie_ha": 4.01,
+      "dosis": 0.45,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00044",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0005",
+      "cultivo": "cereal",
+      "municipio": "San Fernando",
+      "producto": "Bioestimulante",
+      "superficie_ha": 13.47,
+      "dosis": 3.3,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00045",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0061",
+      "cultivo": "vid",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 33.14,
+      "dosis": 3.93,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00046",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0088",
+      "cultivo": "hortícolas",
+      "municipio": "Chiclana",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 4.13,
+      "dosis": 2.77,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00047",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0122",
+      "cultivo": "cereal",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 8.0,
+      "dosis": 2.1,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00048",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0287",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 8.71,
+      "dosis": 1.59,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00049",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0222",
+      "cultivo": "cítricos",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Bioestimulante",
+      "superficie_ha": 20.68,
+      "dosis": 3.98,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00050",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0069",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 19.91,
+      "dosis": 3.95,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00051",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0198",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 34.8,
+      "dosis": 4.47,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00052",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0107",
+      "cultivo": "cereal",
+      "municipio": "San Fernando",
+      "producto": "Bioestimulante",
+      "superficie_ha": 9.09,
+      "dosis": 3.21,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00053",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0293",
+      "cultivo": "vid",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 19.75,
+      "dosis": 3.64,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00054",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0151",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 22.68,
+      "dosis": 2.89,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00055",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0066",
+      "cultivo": "cereal",
+      "municipio": "Chiclana",
+      "producto": "Bioestimulante",
+      "superficie_ha": 39.43,
+      "dosis": 1.19,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00056",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0249",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Bioestimulante",
+      "superficie_ha": 12.89,
+      "dosis": 2.39,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00057",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0235",
+      "cultivo": "cereal",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 8.22,
+      "dosis": 2.52,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00058",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0093",
+      "cultivo": "vid",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 23.51,
+      "dosis": 0.22,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00059",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0098",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 4.79,
+      "dosis": 3.59,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00060",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0031",
+      "cultivo": "vid",
+      "municipio": "San Fernando",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 37.49,
+      "dosis": 1.18,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00061",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0202",
+      "cultivo": "olivo",
+      "municipio": "Cádiz",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 34.16,
+      "dosis": 1.48,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-CUL-00062",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0278",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 15.1,
+      "dosis": 2.79,
+      "unidad_dosis": "L/ha"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-23-0001",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0002",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0003",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0004",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0005",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0006",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0007",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0008",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0009",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0010",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0011",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0012",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0013",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0014",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0015",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0016",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0017",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0018",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0019",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0020",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0021",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0022",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0023",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0024",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0025",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0026",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0027",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0028",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0029",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0030",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0031",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0032",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0033",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0034",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0035",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0036",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0037",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0038",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0039",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0040",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0041",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0042",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0043",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0044",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0045",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0046",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0047",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0048",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0049",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0050",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0051",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0052",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0053",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0054",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0055",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0056",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0057",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0058",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0059",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0060",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0061",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0062",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0063",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0064",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0065",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0066",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0067",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0068",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0069",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0070",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0071",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0072",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0073",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0074",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0075",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0076",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0077",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0078",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0079",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0080",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0081",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0082",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0083",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0084",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0085",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0086",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0087",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0088",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0089",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0090",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0091",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0092",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0093",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0094",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0095",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0096",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0097",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0098",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0099",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0100",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0101",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0102",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0103",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0104",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0105",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0106",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0107",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0108",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0109",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0110",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0111",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0112",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0113",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0114",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0115",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0116",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0117",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0118",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0119",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0120",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0121",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0122",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0123",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0124",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0125",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0126",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0127",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0128",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0129",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0130",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0131",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0132",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0133",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0134",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0135",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0136",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0137",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0138",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0139",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0140",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0141",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0142",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0143",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0144",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0145",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0146",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0147",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0148",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0149",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0150",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0151",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0152",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0153",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0154",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0155",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0156",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0157",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0158",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0159",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0160",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0161",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0162",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0163",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0164",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0165",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0166",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0167",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0168",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0169",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0170",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0171",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0172",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0173",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0174",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0175",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0176",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0177",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0178",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0179",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0180",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0181",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0182",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0183",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0184",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0185",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0186",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0187",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0188",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0189",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0190",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0191",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0192",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0193",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0194",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0195",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0196",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0197",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0198",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0199",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0200",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0201",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0202",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0203",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0204",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0205",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0206",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0207",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0208",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0209",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0210",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0211",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0212",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0213",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0214",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0215",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0216",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0217",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0218",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0219",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0220",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0221",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0222",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0223",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0224",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0225",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0226",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0227",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0228",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0229",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0230",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0231",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0232",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0233",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0234",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0235",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0236",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0237",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0238",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0239",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0240",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0241",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0242",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0243",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0244",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0245",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0246",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0247",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0248",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0249",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0250",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0251",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0252",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0253",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0254",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0255",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0256",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0257",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0258",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0259",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0260",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0261",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0262",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0263",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0264",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0265",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0266",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0267",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0268",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0269",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0270",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0271",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0272",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0273",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0274",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0275",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0276",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0277",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0278",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0279",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0280",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0281",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0282",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0283",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0284",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0285",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0286",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0287",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0288",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0289",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0290",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0291",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0292",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0293",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0294",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0295",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0296",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0297",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0298",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0299",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0300",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0301",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0302",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0303",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0304",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-23-0305",
+      "texto": "Información complementaria de prueba asociada a cultivos. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

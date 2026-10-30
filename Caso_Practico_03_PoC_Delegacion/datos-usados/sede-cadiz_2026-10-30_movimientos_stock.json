@@ -1,0 +1,1835 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "movimientos_stock",
+    "formato": "JSON",
+    "numero_fichero": 13,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-MOV-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L73362",
+      "almacen": "ALM-07",
+      "cantidad": 1010.84,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L47380",
+      "almacen": "ALM-08",
+      "cantidad": 706.74,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L61163",
+      "almacen": "ALM-02",
+      "cantidad": 1464.62,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L48142",
+      "almacen": "ALM-06",
+      "cantidad": 1384.91,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L37379",
+      "almacen": "ALM-08",
+      "cantidad": 288.54,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L35357",
+      "almacen": "ALM-05",
+      "cantidad": 470.61,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L96908",
+      "almacen": "ALM-02",
+      "cantidad": 391.28,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L47798",
+      "almacen": "ALM-03",
+      "cantidad": 551.14,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L73874",
+      "almacen": "ALM-08",
+      "cantidad": 1291.31,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L79239",
+      "almacen": "ALM-04",
+      "cantidad": 1102.38,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L16020",
+      "almacen": "ALM-03",
+      "cantidad": 1107.19,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L58066",
+      "almacen": "ALM-07",
+      "cantidad": 1311.65,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L84942",
+      "almacen": "ALM-01",
+      "cantidad": 1170.4,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L23299",
+      "almacen": "ALM-08",
+      "cantidad": 644.08,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L82508",
+      "almacen": "ALM-01",
+      "cantidad": 1300.9,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L32553",
+      "almacen": "ALM-08",
+      "cantidad": 1340.75,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L73033",
+      "almacen": "ALM-04",
+      "cantidad": 1351.3,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L77881",
+      "almacen": "ALM-05",
+      "cantidad": 436.19,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L17081",
+      "almacen": "ALM-06",
+      "cantidad": 625.35,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L46878",
+      "almacen": "ALM-06",
+      "cantidad": 47.72,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L51989",
+      "almacen": "ALM-01",
+      "cantidad": 839.05,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-002",
+      "producto": "Insecticida agrícola",
+      "lote": "L10544",
+      "almacen": "ALM-03",
+      "cantidad": 1143.87,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L30859",
+      "almacen": "ALM-05",
+      "cantidad": 48.88,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L25347",
+      "almacen": "ALM-01",
+      "cantidad": 385.71,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L15174",
+      "almacen": "ALM-06",
+      "cantidad": 1064.6,
+      "unidad": "kg"
+    },
+    {
+      "id_registro": "CAD-MOV-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-005",
+      "producto": "Bioestimulante",
+      "lote": "L93063",
+      "almacen": "ALM-05",
+      "cantidad": 1065.46,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L13495",
+      "almacen": "ALM-03",
+      "cantidad": 924.99,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-003",
+      "producto": "Herbicida selectivo",
+      "lote": "L11452",
+      "almacen": "ALM-06",
+      "cantidad": 1458.03,
+      "unidad": "L"
+    },
+    {
+      "id_registro": "CAD-MOV-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "codigo_producto": "FIT-001",
+      "producto": "Fungicida de cobre",
+      "lote": "L98861",
+      "almacen": "ALM-08",
+      "cantidad": 840.67,
+      "unidad": "unidades"
+    },
+    {
+      "id_registro": "CAD-MOV-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "codigo_producto": "FIT-004",
+      "producto": "Acaricida agrícola",
+      "lote": "L41540",
+      "almacen": "ALM-02",
+      "cantidad": 1133.88,
+      "unidad": "unidades"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-13-0001",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0002",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0003",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0004",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0005",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0006",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0007",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0008",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0009",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0010",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0011",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0012",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0013",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0014",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0015",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0016",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0017",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0018",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0019",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0020",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0021",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0022",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0023",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0024",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0025",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0026",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0027",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0028",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0029",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0030",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0031",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0032",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0033",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0034",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0035",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0036",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0037",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0038",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0039",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0040",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0041",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0042",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0043",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0044",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0045",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0046",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0047",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0048",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0049",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0050",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0051",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0052",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0053",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0054",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0055",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0056",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0057",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0058",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0059",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0060",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0061",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0062",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0063",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0064",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0065",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0066",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0067",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0068",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0069",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0070",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0071",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0072",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0073",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0074",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0075",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0076",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0077",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0078",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0079",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0080",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0081",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0082",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0083",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0084",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0085",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0086",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0087",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0088",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0089",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0090",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0091",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0092",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0093",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0094",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0095",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0096",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0097",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0098",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0099",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0100",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0101",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0102",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0103",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0104",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0105",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0106",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0107",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0108",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0109",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0110",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0111",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0112",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0113",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0114",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0115",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0116",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0117",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0118",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0119",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0120",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0121",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0122",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0123",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0124",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0125",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0126",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0127",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0128",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0129",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0130",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0131",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0132",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0133",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0134",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0135",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0136",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0137",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0138",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0139",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0140",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0141",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0142",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0143",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0144",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0145",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0146",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0147",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0148",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0149",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0150",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0151",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0152",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0153",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0154",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0155",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0156",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0157",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0158",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0159",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0160",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0161",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0162",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0163",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0164",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0165",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0166",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0167",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0168",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0169",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0170",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0171",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0172",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0173",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0174",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0175",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0176",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0177",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0178",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0179",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0180",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0181",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0182",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0183",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0184",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0185",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0186",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0187",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0188",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0189",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0190",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0191",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0192",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0193",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0194",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0195",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0196",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0197",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0198",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0199",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0200",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0201",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0202",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0203",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0204",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0205",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0206",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0207",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0208",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0209",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0210",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0211",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0212",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0213",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0214",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0215",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0216",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0217",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0218",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0219",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0220",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0221",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0222",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0223",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0224",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0225",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0226",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0227",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0228",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0229",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0230",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0231",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0232",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0233",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0234",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0235",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0236",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0237",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0238",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0239",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0240",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0241",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0242",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0243",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0244",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0245",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0246",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0247",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0248",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0249",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0250",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0251",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0252",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0253",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0254",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0255",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0256",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0257",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0258",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0259",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0260",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0261",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0262",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0263",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0264",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0265",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0266",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0267",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0268",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0269",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0270",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0271",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0272",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0273",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0274",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0275",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0276",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0277",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0278",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0279",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0280",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0281",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0282",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0283",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0284",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0285",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0286",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0287",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0288",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0289",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0290",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0291",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0292",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0293",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0294",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0295",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0296",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0297",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-13-0298",
+      "texto": "Información complementaria de prueba asociada a movimientos_stock. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

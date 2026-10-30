@@ -1,0 +1,2272 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "parcelas",
+    "formato": "JSON",
+    "numero_fichero": 9,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-PAR-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0274",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 2.85,
+      "dosis": 2.96,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0291",
+      "cultivo": "cereal",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 20.23,
+      "dosis": 4.17,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0177",
+      "cultivo": "cítricos",
+      "municipio": "Chiclana",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 6.47,
+      "dosis": 4.59,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0024",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 19.19,
+      "dosis": 2.85,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0084",
+      "cultivo": "olivo",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 6.06,
+      "dosis": 4.34,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0125",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 5.97,
+      "dosis": 1.27,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0070",
+      "cultivo": "cítricos",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 30.53,
+      "dosis": 0.16,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0007",
+      "cultivo": "vid",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 19.53,
+      "dosis": 3.29,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0191",
+      "cultivo": "hortícolas",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 2.83,
+      "dosis": 1.71,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0195",
+      "cultivo": "vid",
+      "municipio": "Chiclana",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 4.17,
+      "dosis": 3.15,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0278",
+      "cultivo": "hortícolas",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 11.19,
+      "dosis": 4.6,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0243",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 7.49,
+      "dosis": 0.42,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0250",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 17.91,
+      "dosis": 2.27,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0034",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 12.04,
+      "dosis": 0.77,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0048",
+      "cultivo": "cereal",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 9.48,
+      "dosis": 0.54,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0182",
+      "cultivo": "cereal",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 7.2,
+      "dosis": 0.88,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0290",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 25.67,
+      "dosis": 2.63,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0075",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 14.19,
+      "dosis": 1.13,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0198",
+      "cultivo": "vid",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 29.78,
+      "dosis": 1.46,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0016",
+      "cultivo": "hortícolas",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 7.83,
+      "dosis": 3.88,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0120",
+      "cultivo": "olivo",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 8.66,
+      "dosis": 1.3,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0274",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 26.5,
+      "dosis": 0.64,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0246",
+      "cultivo": "vid",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Bioestimulante",
+      "superficie_ha": 21.25,
+      "dosis": 2.76,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0173",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 14.05,
+      "dosis": 3.94,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0176",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 6.94,
+      "dosis": 1.47,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0184",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 20.08,
+      "dosis": 2.05,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0227",
+      "cultivo": "hortícolas",
+      "municipio": "San Fernando",
+      "producto": "Bioestimulante",
+      "superficie_ha": 31.03,
+      "dosis": 2.04,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0252",
+      "cultivo": "cereal",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 16.51,
+      "dosis": 1.73,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0262",
+      "cultivo": "cítricos",
+      "municipio": "Chiclana",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 1.99,
+      "dosis": 4.21,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0027",
+      "cultivo": "cereal",
+      "municipio": "Chiclana",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 15.34,
+      "dosis": 2.81,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0139",
+      "cultivo": "cítricos",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 19.37,
+      "dosis": 3.47,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0065",
+      "cultivo": "hortícolas",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 22.46,
+      "dosis": 4.75,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0151",
+      "cultivo": "olivo",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 2.27,
+      "dosis": 1.66,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0015",
+      "cultivo": "vid",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 31.54,
+      "dosis": 3.7,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0077",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 1.9,
+      "dosis": 0.82,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0284",
+      "cultivo": "cereal",
+      "municipio": "Chiclana",
+      "producto": "Bioestimulante",
+      "superficie_ha": 11.44,
+      "dosis": 4.17,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0062",
+      "cultivo": "cítricos",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Bioestimulante",
+      "superficie_ha": 43.61,
+      "dosis": 2.41,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0212",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Bioestimulante",
+      "superficie_ha": 23.84,
+      "dosis": 1.5,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0151",
+      "cultivo": "cítricos",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 42.04,
+      "dosis": 2.51,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0105",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 39.34,
+      "dosis": 2.86,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0279",
+      "cultivo": "vid",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 38.97,
+      "dosis": 4.81,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0158",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 11.74,
+      "dosis": 2.23,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0188",
+      "cultivo": "cereal",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 5.78,
+      "dosis": 4.82,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00044",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0158",
+      "cultivo": "olivo",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Insecticida agrícola",
+      "superficie_ha": 41.36,
+      "dosis": 3.63,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00045",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0123",
+      "cultivo": "olivo",
+      "municipio": "El Puerto de Santa María",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 31.12,
+      "dosis": 3.1,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00046",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0055",
+      "cultivo": "olivo",
+      "municipio": "Cádiz",
+      "producto": "Herbicida selectivo",
+      "superficie_ha": 17.23,
+      "dosis": 2.71,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00047",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0123",
+      "cultivo": "cereal",
+      "municipio": "San Fernando",
+      "producto": "Bioestimulante",
+      "superficie_ha": 41.18,
+      "dosis": 4.6,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00048",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "explotacion_id": "EXP-0150",
+      "cultivo": "olivo",
+      "municipio": "San Fernando",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 24.9,
+      "dosis": 4.55,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00049",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0208",
+      "cultivo": "cítricos",
+      "municipio": "Cádiz",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 20.33,
+      "dosis": 2.11,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00050",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "explotacion_id": "EXP-0083",
+      "cultivo": "cítricos",
+      "municipio": "Sanlúcar de Barrameda",
+      "producto": "Fungicida de cobre",
+      "superficie_ha": 33.2,
+      "dosis": 4.42,
+      "unidad_dosis": "L/ha"
+    },
+    {
+      "id_registro": "CAD-PAR-00051",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "explotacion_id": "EXP-0276",
+      "cultivo": "olivo",
+      "municipio": "Jerez de la Frontera",
+      "producto": "Acaricida agrícola",
+      "superficie_ha": 7.14,
+      "dosis": 0.69,
+      "unidad_dosis": "L/ha"
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-09-0001",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0002",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0003",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0004",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0005",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0006",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0007",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0008",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0009",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0010",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0011",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0012",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0013",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0014",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0015",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0016",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0017",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0018",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0019",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0020",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0021",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0022",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0023",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0024",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0025",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0026",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0027",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0028",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0029",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0030",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0031",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0032",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0033",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0034",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0035",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0036",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0037",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0038",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0039",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0040",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0041",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0042",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0043",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0044",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0045",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0046",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0047",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0048",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0049",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0050",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0051",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0052",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0053",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0054",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0055",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0056",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0057",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0058",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0059",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0060",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0061",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0062",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0063",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0064",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0065",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0066",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0067",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0068",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0069",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0070",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0071",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0072",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0073",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0074",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0075",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0076",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0077",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0078",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0079",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0080",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0081",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0082",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0083",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0084",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0085",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0086",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0087",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0088",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0089",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0090",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0091",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0092",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0093",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0094",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0095",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0096",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0097",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0098",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0099",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0100",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0101",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0102",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0103",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0104",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0105",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0106",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0107",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0108",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0109",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0110",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0111",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0112",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0113",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0114",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0115",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0116",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0117",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0118",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0119",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0120",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0121",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0122",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0123",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0124",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0125",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0126",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0127",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0128",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0129",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0130",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0131",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0132",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0133",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0134",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0135",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0136",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0137",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0138",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0139",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0140",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0141",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0142",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0143",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0144",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0145",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0146",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0147",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0148",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0149",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0150",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0151",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0152",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0153",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0154",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0155",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0156",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0157",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0158",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0159",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0160",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0161",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0162",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0163",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0164",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0165",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0166",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0167",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0168",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0169",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0170",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0171",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0172",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0173",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0174",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0175",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0176",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0177",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0178",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0179",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0180",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0181",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0182",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0183",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0184",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0185",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0186",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0187",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0188",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0189",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0190",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0191",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0192",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0193",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0194",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0195",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0196",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0197",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0198",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0199",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0200",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0201",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0202",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0203",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0204",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0205",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0206",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0207",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0208",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0209",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0210",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0211",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0212",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0213",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0214",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0215",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0216",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0217",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0218",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0219",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0220",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0221",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0222",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0223",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0224",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0225",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0226",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0227",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0228",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0229",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0230",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0231",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0232",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0233",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0234",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0235",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0236",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0237",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0238",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0239",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0240",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0241",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0242",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0243",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0244",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0245",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0246",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0247",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0248",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0249",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0250",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0251",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0252",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0253",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0254",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0255",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0256",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0257",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0258",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0259",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0260",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0261",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0262",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0263",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0264",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0265",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0266",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0267",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0268",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0269",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0270",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0271",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0272",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0273",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0274",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0275",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0276",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0277",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0278",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0279",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0280",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0281",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0282",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0283",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0284",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0285",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0286",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0287",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0288",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0289",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0290",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0291",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0292",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0293",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0294",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0295",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0296",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0297",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0298",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0299",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0300",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0301",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0302",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0303",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0304",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0305",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0306",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0307",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0308",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0309",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0310",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0311",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0312",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0313",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0314",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0315",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0316",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0317",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0318",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0319",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0320",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0321",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0322",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0323",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0324",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0325",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0326",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0327",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0328",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-09-0329",
+      "texto": "Información complementaria de prueba asociada a parcelas. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}

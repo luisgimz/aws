@@ -1,0 +1,630 @@
+{
+  "metadatos": {
+    "delegacion_origen": "sede-cadiz",
+    "fecha_generacion": "2026-10-30",
+    "fecha_generacion_iso": "2026-10-30T22:00:00+01:00",
+    "tipo_datos": "resumen_diario",
+    "formato": "JSON",
+    "numero_fichero": 25,
+    "total_ficheros_lote": 25
+  },
+  "registros": [
+    {
+      "id_registro": "CAD-RES-00001",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 11325.49,
+      "pedidos_procesados": 5,
+      "productos_movidos": 57,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00002",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 3808.87,
+      "pedidos_procesados": 28,
+      "productos_movidos": 102,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00003",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 13001.37,
+      "pedidos_procesados": 32,
+      "productos_movidos": 100,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00004",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 4865.43,
+      "pedidos_procesados": 4,
+      "productos_movidos": 50,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00005",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 11549.08,
+      "pedidos_procesados": 17,
+      "productos_movidos": 56,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00006",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 10789.94,
+      "pedidos_procesados": 22,
+      "productos_movidos": 189,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00007",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 2724.31,
+      "pedidos_procesados": 54,
+      "productos_movidos": 150,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00008",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 2449.21,
+      "pedidos_procesados": 33,
+      "productos_movidos": 112,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00009",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 13706.28,
+      "pedidos_procesados": 35,
+      "productos_movidos": 159,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00010",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 12657.08,
+      "pedidos_procesados": 37,
+      "productos_movidos": 26,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00011",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 6926.39,
+      "pedidos_procesados": 15,
+      "productos_movidos": 138,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00012",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 5341.65,
+      "pedidos_procesados": 19,
+      "productos_movidos": 133,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00013",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 13352.4,
+      "pedidos_procesados": 19,
+      "productos_movidos": 133,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00014",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 9611.16,
+      "pedidos_procesados": 40,
+      "productos_movidos": 74,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00015",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 10796.54,
+      "pedidos_procesados": 34,
+      "productos_movidos": 104,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00016",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 3857.04,
+      "pedidos_procesados": 56,
+      "productos_movidos": 12,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00017",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 6163.98,
+      "pedidos_procesados": 25,
+      "productos_movidos": 148,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00018",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 3335.62,
+      "pedidos_procesados": 44,
+      "productos_movidos": 55,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00019",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 3478.62,
+      "pedidos_procesados": 14,
+      "productos_movidos": 117,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00020",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 5521.61,
+      "pedidos_procesados": 2,
+      "productos_movidos": 93,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00021",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 13228.76,
+      "pedidos_procesados": 32,
+      "productos_movidos": 3,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00022",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 2241.7,
+      "pedidos_procesados": 11,
+      "productos_movidos": 19,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00023",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 8524.15,
+      "pedidos_procesados": 17,
+      "productos_movidos": 86,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00024",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 4472.96,
+      "pedidos_procesados": 58,
+      "productos_movidos": 7,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00025",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 14851.62,
+      "pedidos_procesados": 30,
+      "productos_movidos": 36,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00026",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 13925.08,
+      "pedidos_procesados": 29,
+      "productos_movidos": 17,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00027",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 11306.95,
+      "pedidos_procesados": 6,
+      "productos_movidos": 198,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00028",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 11312.08,
+      "pedidos_procesados": 40,
+      "productos_movidos": 78,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00029",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 6264.06,
+      "pedidos_procesados": 1,
+      "productos_movidos": 38,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00030",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 7586.48,
+      "pedidos_procesados": 54,
+      "productos_movidos": 180,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00031",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 3460.79,
+      "pedidos_procesados": 46,
+      "productos_movidos": 95,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00032",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 11920.47,
+      "pedidos_procesados": 32,
+      "productos_movidos": 32,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00033",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 4314.07,
+      "pedidos_procesados": 47,
+      "productos_movidos": 131,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00034",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 8541.67,
+      "pedidos_procesados": 54,
+      "productos_movidos": 160,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00035",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 10883.12,
+      "pedidos_procesados": 45,
+      "productos_movidos": 29,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00036",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 408.57,
+      "pedidos_procesados": 20,
+      "productos_movidos": 98,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00037",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 7275.26,
+      "pedidos_procesados": 41,
+      "productos_movidos": 174,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00038",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 8451.59,
+      "pedidos_procesados": 36,
+      "productos_movidos": 11,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00039",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 4785.64,
+      "pedidos_procesados": 32,
+      "productos_movidos": 12,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00040",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 4420.65,
+      "pedidos_procesados": 59,
+      "productos_movidos": 153,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00041",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 4690.44,
+      "pedidos_procesados": 16,
+      "productos_movidos": 150,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00042",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 2075.67,
+      "pedidos_procesados": 27,
+      "productos_movidos": 158,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00043",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 9927.88,
+      "pedidos_procesados": 42,
+      "productos_movidos": 46,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00044",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 7849.33,
+      "pedidos_procesados": 50,
+      "productos_movidos": 73,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00045",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 9745.73,
+      "pedidos_procesados": 52,
+      "productos_movidos": 176,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00046",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 1557.53,
+      "pedidos_procesados": 49,
+      "productos_movidos": 117,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00047",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 1332.26,
+      "pedidos_procesados": 49,
+      "productos_movidos": 4,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00048",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 11286.94,
+      "pedidos_procesados": 49,
+      "productos_movidos": 61,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00049",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 12901.47,
+      "pedidos_procesados": 59,
+      "productos_movidos": 170,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00050",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 9350.63,
+      "pedidos_procesados": 23,
+      "productos_movidos": 183,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00051",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 576.32,
+      "pedidos_procesados": 19,
+      "productos_movidos": 164,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00052",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 3488.11,
+      "pedidos_procesados": 25,
+      "productos_movidos": 168,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00053",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 11019.19,
+      "pedidos_procesados": 37,
+      "productos_movidos": 141,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00054",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 7846.92,
+      "pedidos_procesados": 15,
+      "productos_movidos": 85,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00055",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 7919.95,
+      "pedidos_procesados": 8,
+      "productos_movidos": 3,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00056",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 11003.41,
+      "pedidos_procesados": 7,
+      "productos_movidos": 28,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00057",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 14217.46,
+      "pedidos_procesados": 28,
+      "productos_movidos": 182,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00058",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 11922.28,
+      "pedidos_procesados": 28,
+      "productos_movidos": 182,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00059",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 12309.66,
+      "pedidos_procesados": 18,
+      "productos_movidos": 102,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00060",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 6449.71,
+      "pedidos_procesados": 19,
+      "productos_movidos": 182,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00061",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 8721.95,
+      "pedidos_procesados": 5,
+      "productos_movidos": 172,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00062",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 2875.42,
+      "pedidos_procesados": 4,
+      "productos_movidos": 149,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00063",
+      "fecha_operacion": "2026-10-30",
+      "estado": "pendiente_revision",
+      "total_ventas_eur": 10943.99,
+      "pedidos_procesados": 54,
+      "productos_movidos": 70,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00064",
+      "fecha_operacion": "2026-10-30",
+      "estado": "registrado",
+      "total_ventas_eur": 9906.0,
+      "pedidos_procesados": 4,
+      "productos_movidos": 169,
+      "observacion": "Resumen diario de actividad de la delegación."
+    },
+    {
+      "id_registro": "CAD-RES-00065",
+      "fecha_operacion": "2026-10-30",
+      "estado": "validado",
+      "total_ventas_eur": 13444.7,
+      "pedidos_procesados": 7,
+      "productos_movidos": 189,
+      "observacion": "Resumen diario de actividad de la delegación."
+    }
+  ],
+  "observaciones": [
+    {
+      "id_observacion": "OBS-25-0001",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-25-0002",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-25-0003",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-25-0004",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-25-0005",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    },
+    {
+      "id_observacion": "OBS-25-0006",
+      "texto": "Información complementaria de prueba asociada a resumen_diario. Datos ficticios para comprobar la transferencia, integridad y almacenamiento.",
+      "fecha": "2026-10-30"
+    }
+  ]
+}
